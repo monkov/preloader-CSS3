@@ -1,2 +1,2 @@
 # preloader-CSS3
-Preloader for web site
+The preloader animation is written in CCS3
