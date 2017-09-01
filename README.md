@@ -4,3 +4,4 @@ The preloader animation is written in CCS
  - /example/ - Example of preloader usage
  - /example/infinite/ - Infinite load
  - /source/ - Source of preloader
+ - Example [here](https://codepen.io/monkov/pen/RZvQNB)
